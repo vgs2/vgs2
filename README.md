@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 **I love anything related to data! Specially Data Science, which I'm currently learning.**
 - 👷‍ I'm currently working as a Scrum Master and backend developer at Viitra
 - 🔍 I also have a deep interest in Python, what an amazing language.
-- 📂 I am Debian based system user, I go back and forth between many distributions, but I'm currently using Ubuntu.
+- 📂 I am a Debian based system user, I go back and forth between many distributions, but I'm currently using Ubuntu.
 
 ### Data Science books that I'm currently reading:
 - 📖 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, by Aurélien Géron
