@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 ### Hello. Welcome to my Github profile.
 
 ### About me:
-- 🌱 **I love anything related to data! Specially Data Science, which I'm currently learning.**
-- 👷‍ I'm currently working as a Scrum Master and backend developer at Viitra
-- 🔍 I also have a deep interest in Python, what an amazing language.
-- 📂 I am a Debian based system user, I go back and forth between many distributions, but I'm currently using Ubuntu.
+- 🌱 **I love anything related to data! Specially Data Engineering.**
+- 👷‍ I'm currently working as a backend developer at Echoenergia, orchestrating automation tasks and data pipelines.
+- 🔍 I'm mainsly a Python programmer, with soime experience in other languages such as Go and C.
+- 📂 I am a Linux user, I go back and forth between some distros. I'm currently using Mint.
 
 ### Data Science books that I'm currently reading:
 - 📖 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, by Aurélien Géron
