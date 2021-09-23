@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### About me:
 - 🌱 **I love anything related to data! Specially Data Engineering and Data Science.**
 - 👷‍ I'm currently working as a backend developer at Echoenergia, orchestrating automation tasks and data pipelines.
-- 🔍 I'm mainsly a Python programmer, with soime experience in other languages such as Go and C.
+- 🔍 I'm mainly a Python programmer, with soime experience in other languages such as Go and C.
 - 📂 I am a Linux user, I go back and forth between some distros. I'm currently using Mint.
 
 ### Data Science books that I'm currently reading:
